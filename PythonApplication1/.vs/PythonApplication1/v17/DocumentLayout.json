@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04413.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\\u043A\u043B\u0430\u0441\u04413.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\PythonApplication1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\PythonApplication1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u0412\u0442\u043E\u0440\u0430 \u0437\u0430\u0434\u0447\u0430 \u041D\u0422\u041E.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\\u0412\u0442\u043E\u0440\u0430 \u0437\u0430\u0434\u0447\u0430 \u041D\u0422\u041E.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04414.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\\u043A\u043B\u0430\u0441\u04414.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\1 \u0437\u0430\u0434\u0430\u0447\u0430.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\1 \u0437\u0430\u0434\u0430\u0447\u0430.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04412.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2204E6-1FE5-4EAB-9D2D-5020742CE6E0}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\\u043A\u043B\u0430\u0441\u04412.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1 \u0437\u0430\u0434\u0430\u0447\u0430.py",
+              "DocumentMoniker": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\1 \u0437\u0430\u0434\u0430\u0447\u0430.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\1 \u0437\u0430\u0434\u0430\u0447\u0430.py",
+              "ToolTip": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\1 \u0437\u0430\u0434\u0430\u0447\u0430.py",
+              "RelativeToolTip": "PythonApplication1\\1 \u0437\u0430\u0434\u0430\u0447\u0430.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPpZQxSFtRFIb/\u002B14SWxvtC3RIO7TgFIrQFFMqNCU4SJMpipQWdOvUoUhByOhUiJPYJYODk1MmcVCnDH2gBYtB0tLSoQ62BlrwJQRMX3zv9pybl5o0ihV/OJyTc\u002B/9OOfcdyNwhoa2zXjIV1kMadWIoVsI6RWEtAoM9iq2TmJa96NRNm4chDXvfIcGtj/GIbQ1KbWIVBkBKcnYe\u002BZCI6/BlRocqfOmsPXzZqkLGNr6EZeOWHOlCLYOOnRIeRXrOGaDjob0waba6rKH1giqIdjZ8t2hnP/OwIuA7vgDwgZbj2goH/C8X3kyRpF/8LAXk5PX0Ksd4Yr4veeRSGY1juijY4q4y/\u002B25NNb8v33uNw9iMnPB/e\u002BNVtmGPQ1mpsaRiaTwdLSEubn5xGLxdSWdDqNXC6H2dlZBINBlWM14EPV7UPF6YflXqeuWzDIv7uSySTW19exsrKC1dVVTExMYGZmBsvLy6jX6yrXUkP6UXX6CNaPQ4eB0PLtsJai0SgSiQT29/cxNjaGbDYL0zQxNzeHkZERbxdgE7BCMItgDOWWw82lbhWLRYyOjipoJBJROcMwMD09rWIWV8ggBh46hgKeqo2NDdWyZVlYWFjA1NQU8vk8Njc3UavVvF1ehWp\u002BTaiAWePbaupVCth5h3A4rEA8r3YNDg6qanmtpcj4MJ68eQafOKbq3L1TKyyXy10wVqlU6oCxbJdb5nZ5hupSLidbBqjV5idD0F\u002BXB9LTOyQYza9mucZrn5fvUKFQ8KITtX8q7bJdVWHND5n6EBs26ZXQpbTs/uOup3WeXU2N27e3vtDjaKrzlt9mgK\u002B73o/zJaTjCPto0f2089JL/QO8kAR9jE4K8X5q80R8KfwPc0GdDmNpVPdz8heBls\u002BCAcAfvkBQazDItHEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-08T11:24:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u043A\u043B\u0430\u0441\u04414.py",
+              "DocumentMoniker": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04414.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\\u043A\u043B\u0430\u0441\u04414.py",
+              "ToolTip": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04414.py",
+              "RelativeToolTip": "PythonApplication1\\\u043A\u043B\u0430\u0441\u04414.py",
+              "ViewState": "AgIAACkAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPpZQxSFtRFIb/\u002B14SWxvtC3RIO7TgFIrQFFMqNCU4SJMpipQWdOvUoUhByOhUiJPYJYODk1MmcVCnDH2gBYtB0tLSoQ62BlrwJQRMX3zv9pybl5o0ihV/OJyTc\u002B/9OOfcdyNwhoa2zXjIV1kMadWIoVsI6RWEtAoM9iq2TmJa96NRNm4chDXvfIcGtj/GIbQ1KbWIVBkBKcnYe\u002BZCI6/BlRocqfOmsPXzZqkLGNr6EZeOWHOlCLYOOnRIeRXrOGaDjob0waba6rKH1giqIdjZ8t2hnP/OwIuA7vgDwgZbj2goH/C8X3kyRpF/8LAXk5PX0Ksd4Yr4veeRSGY1juijY4q4y/\u002B25NNb8v33uNw9iMnPB/e\u002BNVtmGPQ1mpsaRiaTwdLSEubn5xGLxdSWdDqNXC6H2dlZBINBlWM14EPV7UPF6YflXqeuWzDIv7uSySTW19exsrKC1dVVTExMYGZmBsvLy6jX6yrXUkP6UXX6CNaPQ4eB0PLtsJai0SgSiQT29/cxNjaGbDYL0zQxNzeHkZERbxdgE7BCMItgDOWWw82lbhWLRYyOjipoJBJROcMwMD09rWIWV8ggBh46hgKeqo2NDdWyZVlYWFjA1NQU8vk8Njc3UavVvF1ehWp\u002BTaiAWePbaupVCth5h3A4rEA8r3YNDg6qanmtpcj4MJ68eQafOKbq3L1TKyyXy10wVqlU6oCxbJdb5nZ5hupSLidbBqjV5idD0F\u002BXB9LTOyQYza9mucZrn5fvUKFQ8KITtX8q7bJdVWHND5n6EBs26ZXQpbTs/uOup3WeXU2N27e3vtDjaKrzlt9mgK\u002B73o/zJaTjCPto0f2089JL/QO8kAR9jE4K8X5q80R8KfwPc0GdDmNpVPdz8heBls\u002BCAcAfvkBQazDItHEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-08T02:26:27.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u043A\u043B\u0430\u0441\u04412.py",
+              "DocumentMoniker": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04412.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\\u043A\u043B\u0430\u0441\u04412.py",
+              "ToolTip": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04412.py",
+              "RelativeToolTip": "PythonApplication1\\\u043A\u043B\u0430\u0441\u04412.py",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwFEAAAANAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPpZQxSFtRFIb/\u002B14SWxvtC3RIO7TgFIrQFFMqNCU4SJMpipQWdOvUoUhByOhUiJPYJYODk1MmcVCnDH2gBYtB0tLSoQ62BlrwJQRMX3zv9pybl5o0ihV/OJyTc\u002B/9OOfcdyNwhoa2zXjIV1kMadWIoVsI6RWEtAoM9iq2TmJa96NRNm4chDXvfIcGtj/GIbQ1KbWIVBkBKcnYe\u002BZCI6/BlRocqfOmsPXzZqkLGNr6EZeOWHOlCLYOOnRIeRXrOGaDjob0waba6rKH1giqIdjZ8t2hnP/OwIuA7vgDwgZbj2goH/C8X3kyRpF/8LAXk5PX0Ksd4Yr4veeRSGY1juijY4q4y/\u002B25NNb8v33uNw9iMnPB/e\u002BNVtmGPQ1mpsaRiaTwdLSEubn5xGLxdSWdDqNXC6H2dlZBINBlWM14EPV7UPF6YflXqeuWzDIv7uSySTW19exsrKC1dVVTExMYGZmBsvLy6jX6yrXUkP6UXX6CNaPQ4eB0PLtsJai0SgSiQT29/cxNjaGbDYL0zQxNzeHkZERbxdgE7BCMItgDOWWw82lbhWLRYyOjipoJBJROcMwMD09rWIWV8ggBh46hgKeqo2NDdWyZVlYWFjA1NQU8vk8Njc3UavVvF1ehWp\u002BTaiAWePbaupVCth5h3A4rEA8r3YNDg6qanmtpcj4MJ68eQafOKbq3L1TKyyXy10wVqlU6oCxbJdb5nZ5hupSLidbBqjV5idD0F\u002BXB9LTOyQYza9mucZrn5fvUKFQ8KITtX8q7bJdVWHND5n6EBs26ZXQpbTs/uOup3WeXU2N27e3vtDjaKrzlt9mgK\u002B73o/zJaTjCPto0f2089JL/QO8kAR9jE4K8X5q80R8KfwPc0GdDmNpVPdz8heBls\u002BCAcAfvkBQazDItHEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-07T14:15:21.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u043A\u043B\u0430\u0441\u04413.py",
+              "DocumentMoniker": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04413.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\\u043A\u043B\u0430\u0441\u04413.py",
+              "ToolTip": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u043A\u043B\u0430\u0441\u04413.py",
+              "RelativeToolTip": "PythonApplication1\\\u043A\u043B\u0430\u0441\u04413.py",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv0wAAAAKAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPpZQxSFtRFIb/\u002B14SWxvtC3RIO7TgFIrQFFMqNCU4SJMpipQWdOvUoUhByOhUiJPYJYODk1MmcVCnDH2gBYtB0tLSoQ62BlrwJQRMX3zv9pybl5o0ihV/OJyTc\u002B/9OOfcdyNwhoa2zXjIV1kMadWIoVsI6RWEtAoM9iq2TmJa96NRNm4chDXvfIcGtj/GIbQ1KbWIVBkBKcnYe\u002BZCI6/BlRocqfOmsPXzZqkLGNr6EZeOWHOlCLYOOnRIeRXrOGaDjob0waba6rKH1giqIdjZ8t2hnP/OwIuA7vgDwgZbj2goH/C8X3kyRpF/8LAXk5PX0Ksd4Yr4veeRSGY1juijY4q4y/\u002B25NNb8v33uNw9iMnPB/e\u002BNVtmGPQ1mpsaRiaTwdLSEubn5xGLxdSWdDqNXC6H2dlZBINBlWM14EPV7UPF6YflXqeuWzDIv7uSySTW19exsrKC1dVVTExMYGZmBsvLy6jX6yrXUkP6UXX6CNaPQ4eB0PLtsJai0SgSiQT29/cxNjaGbDYL0zQxNzeHkZERbxdgE7BCMItgDOWWw82lbhWLRYyOjipoJBJROcMwMD09rWIWV8ggBh46hgKeqo2NDdWyZVlYWFjA1NQU8vk8Njc3UavVvF1ehWp\u002BTaiAWePbaupVCth5h3A4rEA8r3YNDg6qanmtpcj4MJ68eQafOKbq3L1TKyyXy10wVqlU6oCxbJdb5nZ5hupSLidbBqjV5idD0F\u002BXB9LTOyQYza9mucZrn5fvUKFQ8KITtX8q7bJdVWHND5n6EBs26ZXQpbTs/uOup3WeXU2N27e3vtDjaKrzlt9mgK\u002B73o/zJaTjCPto0f2089JL/QO8kAR9jE4K8X5q80R8KfwPc0GdDmNpVPdz8heBls\u002BCAcAfvkBQazDItHEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-07T04:02:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\output.txt",
+              "RelativeDocumentMoniker": "PythonApplication1\\output.txt",
+              "ToolTip": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\output.txt",
+              "RelativeToolTip": "PythonApplication1\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T09:20:56.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0412\u0442\u043E\u0440\u0430 \u0437\u0430\u0434\u0447\u0430 \u041D\u0422\u041E.py",
+              "DocumentMoniker": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u0412\u0442\u043E\u0440\u0430 \u0437\u0430\u0434\u0447\u0430 \u041D\u0422\u041E.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\\u0412\u0442\u043E\u0440\u0430 \u0437\u0430\u0434\u0447\u0430 \u041D\u0422\u041E.py",
+              "ToolTip": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\\u0412\u0442\u043E\u0440\u0430 \u0437\u0430\u0434\u0447\u0430 \u041D\u0422\u041E.py",
+              "RelativeToolTip": "PythonApplication1\\\u0412\u0442\u043E\u0440\u0430 \u0437\u0430\u0434\u0447\u0430 \u041D\u0422\u041E.py",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv4gAAAAKAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPpZQxSFtRFIb/\u002B14SWxvtC3RIO7TgFIrQFFMqNCU4SJMpipQWdOvUoUhByOhUiJPYJYODk1MmcVCnDH2gBYtB0tLSoQ62BlrwJQRMX3zv9pybl5o0ihV/OJyTc\u002B/9OOfcdyNwhoa2zXjIV1kMadWIoVsI6RWEtAoM9iq2TmJa96NRNm4chDXvfIcGtj/GIbQ1KbWIVBkBKcnYe\u002BZCI6/BlRocqfOmsPXzZqkLGNr6EZeOWHOlCLYOOnRIeRXrOGaDjob0waba6rKH1giqIdjZ8t2hnP/OwIuA7vgDwgZbj2goH/C8X3kyRpF/8LAXk5PX0Ksd4Yr4veeRSGY1juijY4q4y/\u002B25NNb8v33uNw9iMnPB/e\u002BNVtmGPQ1mpsaRiaTwdLSEubn5xGLxdSWdDqNXC6H2dlZBINBlWM14EPV7UPF6YflXqeuWzDIv7uSySTW19exsrKC1dVVTExMYGZmBsvLy6jX6yrXUkP6UXX6CNaPQ4eB0PLtsJai0SgSiQT29/cxNjaGbDYL0zQxNzeHkZERbxdgE7BCMItgDOWWw82lbhWLRYyOjipoJBJROcMwMD09rWIWV8ggBh46hgKeqo2NDdWyZVlYWFjA1NQU8vk8Njc3UavVvF1ehWp\u002BTaiAWePbaupVCth5h3A4rEA8r3YNDg6qanmtpcj4MJ68eQafOKbq3L1TKyyXy10wVqlU6oCxbJdb5nZ5hupSLidbBqjV5idD0F\u002BXB9LTOyQYza9mucZrn5fvUKFQ8KITtX8q7bJdVWHND5n6EBs26ZXQpbTs/uOup3WeXU2N27e3vtDjaKrzlt9mgK\u002B73o/zJaTjCPto0f2089JL/QO8kAR9jE4K8X5q80R8KfwPc0GdDmNpVPdz8heBls\u002BCAcAfvkBQazDItHEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-08T00:13:23.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\input.txt",
+              "RelativeDocumentMoniker": "PythonApplication1\\input.txt",
+              "ToolTip": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\input.txt",
+              "RelativeToolTip": "PythonApplication1\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T09:20:43.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PythonApplication1.py",
+              "DocumentMoniker": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\PythonApplication1.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\PythonApplication1.py",
+              "ToolTip": "C:\\Users\\DNK VR\\Source\\Repos\\PythonApplication1\\PythonApplication1\\PythonApplication1.py",
+              "RelativeToolTip": "PythonApplication1\\PythonApplication1.py",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0gAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPpZQxSFtRFIb/\u002B14SWxvtC3RIO7TgFIrQFFMqNCU4SJMpipQWdOvUoUhByOhUiJPYJYODk1MmcVCnDH2gBYtB0tLSoQ62BlrwJQRMX3zv9pybl5o0ihV/OJyTc\u002B/9OOfcdyNwhoa2zXjIV1kMadWIoVsI6RWEtAoM9iq2TmJa96NRNm4chDXvfIcGtj/GIbQ1KbWIVBkBKcnYe\u002BZCI6/BlRocqfOmsPXzZqkLGNr6EZeOWHOlCLYOOnRIeRXrOGaDjob0waba6rKH1giqIdjZ8t2hnP/OwIuA7vgDwgZbj2goH/C8X3kyRpF/8LAXk5PX0Ksd4Yr4veeRSGY1juijY4q4y/\u002B25NNb8v33uNw9iMnPB/e\u002BNVtmGPQ1mpsaRiaTwdLSEubn5xGLxdSWdDqNXC6H2dlZBINBlWM14EPV7UPF6YflXqeuWzDIv7uSySTW19exsrKC1dVVTExMYGZmBsvLy6jX6yrXUkP6UXX6CNaPQ4eB0PLtsJai0SgSiQT29/cxNjaGbDYL0zQxNzeHkZERbxdgE7BCMItgDOWWw82lbhWLRYyOjipoJBJROcMwMD09rWIWV8ggBh46hgKeqo2NDdWyZVlYWFjA1NQU8vk8Njc3UavVvF1ehWp\u002BTaiAWePbaupVCth5h3A4rEA8r3YNDg6qanmtpcj4MJ68eQafOKbq3L1TKyyXy10wVqlU6oCxbJdb5nZ5hupSLidbBqjV5idD0F\u002BXB9LTOyQYza9mucZrn5fvUKFQ8KITtX8q7bJdVWHND5n6EBs26ZXQpbTs/uOup3WeXU2N27e3vtDjaKrzlt9mgK\u002B73o/zJaTjCPto0f2089JL/QO8kAR9jE4K8X5q80R8KfwPc0GdDmNpVPdz8heBls\u002BCAcAfvkBQazDItHEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-06T04:17:25.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
