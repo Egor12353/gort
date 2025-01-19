@@ -14,7 +14,7 @@ class Program
 
         string hex = ConvertBinaryToHex(concatenated);
 
-        Console.WriteLine(hex);
+        
     }
 
     static string ConvertBinaryToHex(string binary)
